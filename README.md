@@ -10,4 +10,4 @@ Left to right: example C file, scrolled file with preprocessor state not visible
 
 Use `(preprocessor-collect-toggle-overlay-ifdefs)` to enable/disable the state popup.
 
-Warning: this is a hacky elisp learning experiment, not polished and undoubtedly with bugs.
+Warning: this is a hacky elisp learning experiment. It is not polished, lacks configuration options, and undoubtedly has bugs.
